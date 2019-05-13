@@ -39,3 +39,6 @@
 #### 结果 
 
 自然是升职跳槽加薪hhhhh~
+
+
+![avatar](/img/frontend-ability.jpg)
