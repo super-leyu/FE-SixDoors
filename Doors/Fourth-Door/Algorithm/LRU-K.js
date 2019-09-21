@@ -28,14 +28,14 @@ class Counter {
     }
 }
 
-// 初始缓存队列
+// 初始队列
 class Origin_LRU {
     constructor(prop) {
         // 缓存上限
         this.length = prop.length;
         // 加入缓存的最大访问次数
         this.count = prop.count;
-        // 初始缓存数据
+        // 初始数据
         this.cache = [];
     }
 

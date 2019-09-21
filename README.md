@@ -41,4 +41,4 @@
 自然是升职跳槽加薪hhhhh~
 
 
-![avatar](/img/frontend-ability.jpg)
+![ability](/img/frontend-ability.jpg)
